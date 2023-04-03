@@ -16,6 +16,13 @@
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript-logo">
 <br>
 <br>
-<img src="https://github.com/gabrielabade/cell_phone_plan_landing_page/blob/master/img/versao-desktop-e-mobile.png?raw=true" alt="versao-desktop-e-mobile" width="550px"/>
+<img src="https://github.com/gabrielabade/previsao_do_tempo/blob/main/img/clima-campo-bom.jpg?raw=true" alt="clima-campo-bom" width="250px"/>
+<img src="https://github.com/gabrielabade/previsao_do_tempo/blob/main/img/clima-florianopolis.jpg?raw=true" alt="clima-floripa" width="250px"/>
+<br>
+<br>
+<br>
+<H2>Certificado</h2>
+<br>
+<img src="https://github.com/gabrielabade/previsao_do_tempo/blob/main/img/certificado-missao-voce-programador.jpg?raw=true" alt="certificado" width="500px"/>
 
 </div>

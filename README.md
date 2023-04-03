@@ -6,7 +6,7 @@
 <h3>Esse foi um projeto que eu aprendi na "MISSÃO VOCÊ PROGRAMADOR" do <a href="https://rodolfomori.com.br/devclub">DevClub</a>
 <p>Desenvolvemos um site de previsão do tempo, onde a imagem de fundo muda ao reabrir da página, exibindo informações sobre o clima, temperatura, umidade, obtidas através de uma API.</p>
 <br>
-<h3>Link de acesso: <button href="https://lnkd.in/d95jQQH2">Clique aqui</button>
+<h3>Link de acesso: <a href="https://lnkd.in/d95jQQH2">Clique aqui</a>
 <br>
 <br>
 <h2> Tecnologias utilizadas</h2>
